@@ -22,10 +22,6 @@ Eric Ren · ERI Labs · Jersey City, New Jersey · 2026 · github.com/ericrenone
 
 ## I. The Consultation That Was Called an Interview
 
-The interviewers' needs were met before the rejection was written. They became the other candidates.
-
-What occurred across those four weeks was not a hiring process. It was a consulting engagement without a contract, conducted through the mechanism of a job posting that the institution had every reason to create and no obligation to close. The candidate provided strategic analysis, competitive framing, regulatory risk mapping, deployment sequencing, and organizational change management frameworks that would have cost between eight hundred and two thousand dollars per hour at senior consulting rates. She provided this at no charge because the alternative — to withhold the demonstration — was to disqualify herself from the employment outcome the posting represented. She participated because expected-value calculations favored participation. The consultation was extracted. The employment was not extended. And the knowledge she transferred across three panels dispersed into the individual cognitive architectures of the panelists who received it, producing no organizational artifact, no strategic document, no institutional memory that would outlast the next personnel rotation.
-
 The job posting has become a consulting solicitation mechanism. The interview has become the delivery vehicle. Neither is recognized as such by the organizations that operate them or by the candidates who participate in them. That non-recognition is not accidental. It is the Load Recognition Lag operating at institutional scale, in the specific domain of talent acquisition, with the hiring manager as the loaded agent whose monitoring system cannot detect what the process is actually producing.
 
 ---
