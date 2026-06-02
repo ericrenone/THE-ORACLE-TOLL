@@ -22,16 +22,6 @@ Eric Ren · ERI Labs · Jersey City, New Jersey · 2026 · github.com/ericrenone
 
 ## I. The Consultation That Was Called an Interview
 
-Her name does not matter. She has spent six years building the framework that connects transformer architecture to organizational change management — the specific synthesis that makes AI deployment legible to boards, executives, and the regulatory environment simultaneously. She has published. She has predicted correctly. She is considered excellent at what she does, by the people who can evaluate what she does.
-
-She is interviewing for a position at a major financial institution. The posting is described as "AI Strategy and Transformation Lead." The salary band is real. The organizational need is real. The posting is written in the language of genuine urgency.
-
-The first panel interview runs ninety minutes. The panel — two managing directors and a head of human resources — opens with the question that will define the next four weeks of her professional engagement with this institution: "Can you explain what large language models actually are and where they're headed — in terms a senior banker would understand?"
-
-She explains. She is patient. She is pedagogically precise. She maps the capability landscape against their specific business model. She identifies the regulatory exposure the institution has not yet named. She specifies the build-versus-buy decision architecture. She describes the talent composition change that deployment at their scale will require. She does this in the first panel, and then — three weeks later, across two subsequent panels whose members each begin from approximately the same position of informed uncertainty that the previous panel occupied — she does it again. And again.
-
-The offer does not arrive. The rejection email — six weeks after the first panel — contains one sentence that will stay with her: "We have decided to move forward with candidates whose backgrounds more closely align with our current needs."
-
 The interviewers' needs were met before the rejection was written. They became the other candidates.
 
 What occurred across those four weeks was not a hiring process. It was a consulting engagement without a contract, conducted through the mechanism of a job posting that the institution had every reason to create and no obligation to close. The candidate provided strategic analysis, competitive framing, regulatory risk mapping, deployment sequencing, and organizational change management frameworks that would have cost between eight hundred and two thousand dollars per hour at senior consulting rates. She provided this at no charge because the alternative — to withhold the demonstration — was to disqualify herself from the employment outcome the posting represented. She participated because expected-value calculations favored participation. The consultation was extracted. The employment was not extended. And the knowledge she transferred across three panels dispersed into the individual cognitive architectures of the panelists who received it, producing no organizational artifact, no strategic document, no institutional memory that would outlast the next personnel rotation.
